@@ -1,4 +1,4 @@
-# bubble-sort
+# Bubble Sort
 
 ### Objective
 
