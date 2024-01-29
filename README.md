@@ -7,7 +7,7 @@ In this project, we will cover the fundamentals of a `Bubble Sort Algorithm`, an
 
 ### Problem
 
- Returns a sorted array for `[4,3,78,2,0,2]` using the bubble sort methodology.
+ Returns a sorted array for `[4,3,78,2,0,2]` using the bubble sort Algorithm.
 
 ### Implementation
 
