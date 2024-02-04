@@ -2,7 +2,7 @@
 
 ### Objective
 
-In this project, we will cover the fundamentals of a `Bubble Sort Algorithm`, and its operations.
+In this project, we will cover the fundamentals of a `Bubble Sort Algorithm`.
 
 
 ### Problem
